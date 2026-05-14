@@ -17,42 +17,45 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👋 About Me
+I am an Assistant Professor at the Intelligent Game and Decision Lab, Academy of Military Sciences, Beijing. From 2015 to 2024, I earned my bachelor’s and doctoral degrees in Management Science and Engineering (管理科学与工程) from the College of Systems Engineering, National University of Defense Technology, under the supervision of Prof. Zhong Liu (刘忠) and Prof. [Changjun Fan (范长俊)](https://scholar.google.fr/citations?user=z0Keb0sAAAAJ&hl=zh-CN). I was also a visiting Ph.D. student at Tsinghua University from 2022 to 2024, advised by Prof. [Peng Cui (崔鹏)](https://scholar.google.fr/citations?user=G8x97ZgAAAAJ&hl=zh-CN).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I have published over 20 papers in top-tier journals and conferences, including IEEE TPAMI, IEEE TKDE, The Innovation, NeurIPS, ICML, WWW, ICDE, CVPR, and AAAI. My primary research interests include: 1) **Logical Reasoning** — encompassing both rule learning on knowledge graphs and logical reasoning with LLMs; 2) **OOD Generalization** — with a focus on higher-order and complex data such as graphs, heterogeneous information networks, and dynamic systems; 3) **Database Management** — focusing on the representation, processing, and querying of tables; and 4) **Foundation Models** — with particular emphasis on prior-fitted networks and their applications in AI4S domains.
+
+I am open to research discussions and collaboration opportunities. Please feel free to contact me at liushixuan@nudt.edu.cn or szftandy@hotmail.com.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [2026.05] 🎉🎉 Two papers are accepted by **ICML 2026**.
+- [2026.02] 🎉🎉 One paper is accepted by **ICDE 2026**.
+- [2026.02] 🎉🎉 One paper is accepted by **CVPR 2026**.
+- [2026.01] 🎉🎉 One paper is accepted by **WWW 2026**.
+- [2025.11] 🎉🎉 Two papers are accepted by **AAAI 2026**.
+- [2025.09] 🎉🎉 Two papers are accepted by **NeurIPS 2025**, including one **Highlight** (top 3.17%) paper.
 
-# 📝 Publications 
+# 📝 Publications
+<span style="font-size: 90%;">*\* Equal Contribution, † Corresponding Author*</span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- [Inductive Meta-Path Learning for Schema-Complex Heterogeneous Information Networks](https://ieeexplore.ieee.org/abstract/document/10613499) [**IEEE TPAMI**]<br><span style="font-size: 80%;">*<strong>Shixuan Liu</strong>, Changjun Fan†, Kewei Cheng, Yunfei Wang, Peng Cui, Yizhou Sun, Zhong Liu†*</span>
+- [Environment Inference for Learning Generalizable Dynamical System](https://proceedings.neurips.cc/paper_files/paper/2025/hash/f00649987484cba88e5a3699249df65c-Abstract-Conference.html) [**NeurIPS 2025, Highlight**]<br><span style="font-size: 80%;">*<strong>Shixuan Liu</strong>, Yue He†, Haotian Wang, Wenjing Yang, Yunfei Wang, Peng Cui†, Zhong Liu*</span>
+- [LogicSAGE: Neuro-Symbolic Reasoning with Socratic-Guided Enhancement](https://icml.cc/virtual/2026/poster/65084) [**ICML 2026**]<br><span style="font-size: 80%;">*Jinlong Tian, Jiang Yu, Kewei Cheng, Fengxiang Cheng, Yue He, Yunfei Wang, Haotian Wang, Haoxuan Li, Wenjing Yang, <strong>Shixuan Liu†</strong>*</span>
+- [Invariant Learning on Heterogeneous Graphs via Subgraph Environment Inference](https://dl.acm.org/doi/abs/10.1145/3774904.3792342) [**WWW 2026**]<br><span style="font-size: 80%;">*Yanghui Fu, Yunfei Wang, Hao Zou, Yue He, Haotian Wang, Qing Cheng, Guangquan Cheng, <strong>Shixuan Liu†</strong>*</span>
+- [L³C: Leaf-Centric Continuous Codes for Natural Language-Driven Table Discovery](https://icde2026.github.io/accepted-papers.html) [**ICDE 2026**]<br><span style="font-size: 80%;">*Qiyuan Zhang*, Ruochun Jin, Jixin Zhang, Yuhua Tang, Xiang Zhao, <strong>Shixuan Liu†</strong>*</span>
+- [Graph-Attention-Based Causal Discovery With Trust Region-Navigated Clipping Policy Optimization](https://ieeexplore.ieee.org/document/9580556) [**IEEE TCYB**]<br><span style="font-size: 80%;">*<strong>Shixuan Liu</strong>, Yanghe Feng†, Keyu Wu, Guangquan Cheng, Jincai Huang, Zhong Liu*</span>
+- [Rule Learning for Knowledge Graph Reasoning under Agnostic Distribution Shift](https://arxiv.org/abs/2507.05110) [**In Revision, IEEE TPAMI**]<br><span style="font-size: 80%;">*<strong>Shixuan Liu</strong>, Yue He, Yunfei Wang, Hao Zou, Haoxiang Cheng, Wenjing Yang†, Peng Cui†, Zhong Liu*</span>
+- [EvoPath: Evolutionary meta-path discovery with large language models for complex heterogeneous information networks](https://www.sciencedirect.com/science/article/pii/S0306457324002796) [**IPM**]<br><span style="font-size: 80%;">*<strong>Shixuan Liu</strong>, Haoxiang Cheng, Yunfei Wang, Yue He, Changjun Fan†, Zhong Liu*</span>
+- [Efficient Table Embeddings via Self-Supervised Structural-Semantic Graph Autoencoder](https://www.sciencedirect.com/science/article/pii/S0306457325002390) [**IPM**]<br><span style="font-size: 80%;">*Jinlong Tian, <strong>Shixuan Liu\*</strong>*, Ruochun Jin, Mengmeng Li, Yanfang Zhou, Xinhai Xu†, Yuhua Tang†</span>
+- [Tabular Synthesis Based on Bi-Directional Feedback Conditional Diffusion Models](https://ieeexplore.ieee.org/abstract/document/11464381) [**ICASSP 2026**]<br><span style="font-size: 80%;">*Qiyuan Zhang, Yuhua Tang, Jinlong Tian, Yue He, Liyang Xu, <strong>Shixuan Liu</strong>†*</span>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- [The Expressive Power of Graph Neural Networks: A Survey](https://ieeexplore.ieee.org/abstract/document/10818675/) [**IEEE TKDE**]<br><span style="font-size: 80%;">*Bingxu Zhang, Changjun Fan, <strong>Shixuan Liu</strong>, Kuihua Huang, Xiang Zhao, Jincai Huang, Zhong Liu*</span>
+- [Toward bridging the gap between machine intelligence and machine wisdom: Dilemmas and conjectures](https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00037-2) [**The Innovation**]<br><span style="font-size: 80%;">*Rui Wang, <strong>Shixuan Liu</strong>, Changjun Fan, Guozheng Li, Jincai Huang, Zhong Liu, Gang Zhou*</span>
+- [A unified modeling framework for automated penetration testing](https://www.sciencedirect.com/science/article/pii/S0167404825004766) [**Computer \& Security**]<br><span style="font-size: 80%;">*Yunfei Wang, <strong>Shixuan Liu</strong>, Wenhao Wang, Changling Zhou, Chao Zhang, Jiandong Jin, Cheng Zhu*</span>
+- [RoME: Domain-Robust Mixture-of-Experts for MILP Solution Prediction across Domains](https://proceedings.neurips.cc/paper_files/paper/2025/hash/3071ed272658c4418309962ba7b94ec8-Abstract-Conference.html) [**NeurIPS 2025**]<br><span style="font-size: 80%;">*Tianle Pu, Zijie Geng, Haoyang Liu, <strong>Shixuan Liu</strong>, Jie Wang, Li Zeng, Chao Chen, Changjun Fan*</span>
+- [Unstitching the Chimera: Frame-Level Risk and Train-Free Mitigation for Video Hallucination](https://cvpr.thecvf.com/virtual/2026/poster/39603) [**CVPR 2026**]<br><span style="font-size: 80%;">*Songyuan Yang, Guijian Tang, Kun Hu, Haotian Wang, <strong>Shixuan Liu</strong>, Wenjing Yang, Long Lan, Huibin Tan*</span>
+- [CoCo-MILP: Inter-Variable Contrastive and Intra-Constraint Competitive MILP Solution Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/39675) [**AAAI 2026**]<br><span style="font-size: 80%;">*Tianle Pu, Jianing Li, Yingying Gao, <strong>Shixuan Liu</strong>, Zijie Geng, Haoyang Liu, Chao Chen, Changjun Fan*</span>
+- [Detecting Unobserved Confounders: A Kernelized Regression Approach](https://ojs.aaai.org/index.php/AAAI/article/view/39127/43089) [**AAAI 2026**]<br><span style="font-size: 80%;">*Yikai Chen, Yunxin Mao, Chunyuan Zheng, Hao Zou, Shanzhi Gu, <strong>Shixuan Liu</strong>, Yang Shi, Wenjing Yang, Kun Kuang, Haotian Wang*</span>
+- [Solving combinatorial optimization problem over graph through qubo transformation and deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/10884225/) [**ICDM 2024**]<br><span style="font-size: 80%;">*Tianle Pu, Chao Chen, Li Zeng, <strong>Shixuan Liu</strong>, Rui Sun, Changjun Fan*</span>
+- [Coherence mode: Characterizing local graph structural information for temporal knowledge graph](https://www.sciencedirect.com/science/article/pii/S0020025524012714) [**Information Sciences**]<br><span style="font-size: 80%;">*Yuehang Si, Xingchen Hu, Qing Cheng, Xinwang Liu, <strong>Shixuan Liu</strong>, Jincai Huang*</span>
+- [DLME: A distillation mechanism from language models for knowledge graph embedding](https://www.sciencedirect.com/science/article/pii/S0925231226000743) [**Neurocomputing**]<br><span style="font-size: 80%;">*Yuehang Si, Xingchen Hu, Qing Cheng, Jincai Huang, <strong>Shixuan Liu</strong>*</span>
