@@ -24,13 +24,13 @@ author:
   name             : "Shixuan Liu"
   avatar           : "images/head-image.jpg"
   bio              : "Assistant Professor, Intelligent Game and Decision Lab"
-  location         : "Beijing, China"
+  location         : "Academy of Military Sciences"
   employer         : # "Academy of Military Sciences"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ec6IbxsAAAAJ&hl=zh-CN"
   email            : "liushixuan@nudt.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://shixuanliu-andy.github.io"
+  uri              : # "https://shixuanliu-andy.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
