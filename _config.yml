@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shixuan Liu"
-description              : "Assistant Professor at the Intelligent Game and Decision Lab, Academy of Military Sciences, Beijing."
+description              : ""
 repository               : "shixuanliu-andy/shixuanliu-andy.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/head-image.jpg"
   bio              : "Assistant Professor, Intelligent Game and Decision Lab"
   location         : "Beijing, China"
-  employer         : "Academy of Military Sciences"
+  employer         : # "Academy of Military Sciences"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Ec6IbxsAAAAJ&hl=zh-CN"
   email            : "liushixuan@nudt.edu.cn"
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shixuanliu-andy" # e.g., "github username"
+  github           : # "shixuanliu-andy" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.org/pid/152/3598.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0003-4780-3890" # e.g., "https://orcid.org/xxxx"
+  dblp             : # "https://dblp.org/pid/152/3598.html" # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  orcid            : # "https://orcid.org/0000-0003-4780-3890" # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
