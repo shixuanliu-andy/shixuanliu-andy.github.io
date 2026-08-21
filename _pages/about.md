@@ -36,20 +36,31 @@ I am open to research discussions and collaboration opportunities. Please feel f
 - [2025.09] 🎉🎉 Two papers are accepted by **NeurIPS 2025**, including one **Highlight** (top 3.17%) paper.
 
 # 📝 Publications
-<span style="font-size: 90%;">*\* Equal Contribution, ✉ Corresponding Author*</span>
+<span style="font-size: 90%;"><i>* Equal Contribution, ✉ Corresponding Author</i></span>
 
-- [Inductive Meta-Path Learning for Schema-Complex Heterogeneous Information Networks](https://ieeexplore.ieee.org/abstract/document/10613499) [**IEEE TPAMI**]<br><span style="font-size: 80%;">*<strong>Shixuan Liu</strong>, Changjun Fan✉, Kewei Cheng, Yunfei Wang, Peng Cui, Yizhou Sun, Zhong Liu✉*</span>
-- [Environment Inference for Learning Generalizable Dynamical System](https://proceedings.neurips.cc/paper_files/paper/2025/hash/f00649987484cba88e5a3699249df65c-Abstract-Conference.html) [**NeurIPS 2025, Highlight**]<br><span style="font-size: 80%;">*<strong>Shixuan Liu</strong>, Yue He✉ Haotian Wang, Wenjing Yang, Yunfei Wang, Peng Cui✉, Zhong Liu*</span>
-- [Generating Graph-like Rules for Knowledge Graph Reasoning via Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3770855.3817814) [**KDD 2026**]<br><span style="font-size: 80%;">*Haoxiang Cheng, Yunfei Wang, Chao Chen, Kewei Cheng, Zhipeng Lin, Haoxuan Li, Changjun Fan, <strong>Shixuan Liu</strong>✉*</span>
-- [LogicSAGE: Neuro-Symbolic Reasoning with Socratic-Guided Enhancement](https://icml.cc/virtual/2026/poster/65084) [**ICML 2026**]<br><span style="font-size: 80%;">*Jinlong Tian, Jiang Yu, Kewei Cheng, Fengxiang Cheng, Yue He, Yunfei Wang, Haotian Wang, Haoxuan Li, Wenjing Yang, <strong>Shixuan Liu</strong>✉*</span>
-- [Invariant Learning on Heterogeneous Graphs via Subgraph Environment Inference](https://dl.acm.org/doi/abs/10.1145/3774904.3792342) [**WWW 2026**]<br><span style="font-size: 80%;">*Yanghui Fu, Yunfei Wang, Hao Zou, Yue He, Haotian Wang, Qing Cheng, Guangquan Cheng, <strong>Shixuan Liu</strong>✉*</span>
-- [L³C: Leaf-Centric Continuous Codes for Natural Language-Driven Table Discovery](https://icde2026.github.io/accepted-papers.html) [**ICDE 2026**]<br><span style="font-size: 80%;">*Qiyuan Zhang*, _Ruochun Jin_, _Jixin Zhang_, _Yuhua Tang_, _Xiang Zhao_, <strong>Shixuan Liu</strong>✉</span>
-- [Graph-Attention-Based Causal Discovery With Trust Region-Navigated Clipping Policy Optimization](https://ieeexplore.ieee.org/document/9580556) [**IEEE TCYB**]<br><span style="font-size: 80%;">*<strong>Shixuan Liu</strong>, Yanghe Feng✉, Keyu Wu, Guangquan Cheng, Jincai Huang, Zhong Liu*</span>
-- [EvoPath: Evolutionary meta-path discovery with large language models for complex heterogeneous information networks](https://www.sciencedirect.com/science/article/pii/S0306457324002796) [**IP&M**]<br><span style="font-size: 80%;">*<strong>Shixuan Liu</strong>, Haoxiang Cheng, Yunfei Wang, Yue He, Changjun Fan✉, Zhong Liu*</span>
-- [Efficient Table Embeddings via Self-Supervised Structural-Semantic Graph Autoencoder](https://www.sciencedirect.com/science/article/pii/S0306457325002390) [**IP&M**]<br><span style="font-size: 80%;">*Jinlong Tian, <strong>Shixuan Liu\*</strong>*, Ruochun Jin, Mengmeng Li, Yanfang Zhou, Xinhai Xu✉, Yuhua Tang</span>
-- [MIRAGE: Reliability Assessment via Grounded Evidence for Table Reasoning](https://openreview.net/forum?id=FXFrCvcSMd) [**EMNLP 2026**]<br><span style="font-size: 80%;">*Jinlong Tian, Ruochun Jin, <strong>Shixuan Liu</strong>✉, YanfangZhou, Mengmeng li, Haotian Wang, Xinhai Xu, Yuhua Tang*</span>
-- [Tabular Synthesis Based on Bi-Directional Feedback Conditional Diffusion Models](https://ieeexplore.ieee.org/abstract/document/11464381) [**ICASSP 2026**]<br><span style="font-size: 80%;">*Qiyuan Zhang, Yuhua Tang, Jinlong Tian, Yue He, Liyang Xu, <strong>Shixuan Liu</strong>✉*</span>
-- [Rule Learning for Knowledge Graph Reasoning under Agnostic Distribution Shift](https://arxiv.org/abs/2507.05110) [**In Revision, IEEE TPAMI**]<br><span style="font-size: 80%;">*<strong>Shixuan Liu</strong>, Yue He, Yunfei Wang, Hao Zou, Haoxiang Cheng, Wenjing Yang✉, Peng Cui✉, Zhong Liu*</span>
+- [Inductive Meta-Path Learning for Schema-Complex Heterogeneous Information Networks](https://ieeexplore.ieee.org/abstract/document/10613499) [**IEEE TPAMI**]<br><span style="font-size: 80%;"><i><strong>Shixuan Liu</strong>, Changjun Fan✉, Kewei Cheng, Yunfei Wang, Peng Cui, Yizhou Sun, Zhong Liu✉</i></span>
+
+- [Environment Inference for Learning Generalizable Dynamical System](https://proceedings.neurips.cc/paper_files/paper/2025/hash/f00649987484cba88e5a3699249df65c-Abstract-Conference.html) [**NeurIPS 2025, Highlight**]<br><span style="font-size: 80%;"><i><strong>Shixuan Liu</strong>, Yue He✉, Haotian Wang, Wenjing Yang, Yunfei Wang, Peng Cui✉, Zhong Liu</i></span>
+
+- [Generating Graph-like Rules for Knowledge Graph Reasoning via Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3770855.3817814) [**KDD 2026**]<br><span style="font-size: 80%;"><i>Haoxiang Cheng, Yunfei Wang, Chao Chen, Kewei Cheng, Zhipeng Lin, Haoxuan Li, Changjun Fan, <strong>Shixuan Liu</strong>✉</i></span>
+
+- [LogicSAGE: Neuro-Symbolic Reasoning with Socratic-Guided Enhancement](https://icml.cc/virtual/2026/poster/65084) [**ICML 2026**]<br><span style="font-size: 80%;"><i>Jinlong Tian, Jiang Yu, Kewei Cheng, Fengxiang Cheng, Yue He, Yunfei Wang, Haotian Wang, Haoxuan Li, Wenjing Yang, <strong>Shixuan Liu</strong>✉</i></span>
+
+- [Invariant Learning on Heterogeneous Graphs via Subgraph Environment Inference](https://dl.acm.org/doi/abs/10.1145/3774904.3792342) [**WWW 2026**]<br><span style="font-size: 80%;"><i>Yanghui Fu, Yunfei Wang, Hao Zou, Yue He, Haotian Wang, Qing Cheng, Guangquan Cheng, <strong>Shixuan Liu</strong>✉</i></span>
+
+- [L³C: Leaf-Centric Continuous Codes for Natural Language-Driven Table Discovery](https://icde2026.github.io/accepted-papers.html) [**ICDE 2026**]<br><span style="font-size: 80%;"><i>Qiyuan Zhang*, Ruochun Jin, Jixin Zhang, Yuhua Tang, Xiang Zhao, <strong>Shixuan Liu</strong>✉</i></span>
+
+- [Graph-Attention-Based Causal Discovery With Trust Region-Navigated Clipping Policy Optimization](https://ieeexplore.ieee.org/document/9580556) [**IEEE TCYB**]<br><span style="font-size: 80%;"><i><strong>Shixuan Liu</strong>, Yanghe Feng✉, Keyu Wu, Guangquan Cheng, Jincai Huang, Zhong Liu</i></span>
+
+- [EvoPath: Evolutionary meta-path discovery with large language models for complex heterogeneous information networks](https://www.sciencedirect.com/science/article/pii/S0306457324002796) [**IP&M**]<br><span style="font-size: 80%;"><i><strong>Shixuan Liu</strong>, Haoxiang Cheng, Yunfei Wang, Yue He, Changjun Fan✉, Zhong Liu</i></span>
+
+- [Efficient Table Embeddings via Self-Supervised Structural-Semantic Graph Autoencoder](https://www.sciencedirect.com/science/article/pii/S0306457325002390) [**IP&M**]<br><span style="font-size: 80%;"><i>Jinlong Tian, <strong>Shixuan Liu*</strong>, Ruochun Jin, Mengmeng Li, Yanfang Zhou, Xinhai Xu✉, Yuhua Tang</i></span>
+
+- [MIRAGE: Reliability Assessment via Grounded Evidence for Table Reasoning](https://openreview.net/forum?id=FXFrCvcSMd) [**EMNLP 2026**]<br><span style="font-size: 80%;"><i>Jinlong Tian, Ruochun Jin, <strong>Shixuan Liu</strong>✉, Yanfang Zhou, Mengmeng Li, Haotian Wang, Xinhai Xu, Yuhua Tang</i></span>
+
+- [Tabular Synthesis Based on Bi-Directional Feedback Conditional Diffusion Models](https://ieeexplore.ieee.org/abstract/document/11464381) [**ICASSP 2026**]<br><span style="font-size: 80%;"><i>Qiyuan Zhang, Yuhua Tang, Jinlong Tian, Yue He, Liyang Xu, <strong>Shixuan Liu</strong>✉</i></span>
+
+- [Rule Learning for Knowledge Graph Reasoning under Agnostic Distribution Shift](https://arxiv.org/abs/2507.05110) [**In Revision, IEEE TPAMI**]<br><span style="font-size: 80%;"><i><strong>Shixuan Liu</strong>, Yue He, Yunfei Wang, Hao Zou, Haoxiang Cheng, Wenjing Yang✉, Peng Cui✉, Zhong Liu</i></span>
 
 - [The Expressive Power of Graph Neural Networks: A Survey](https://ieeexplore.ieee.org/abstract/document/10818675/) [**IEEE TKDE**]<br><span style="font-size: 80%;">*Bingxu Zhang, Changjun Fan, <strong>Shixuan Liu</strong>, Kuihua Huang, Xiang Zhao, Jincai Huang, Zhong Liu*</span>
 - [Toward bridging the gap between machine intelligence and machine wisdom: Dilemmas and conjectures](https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00037-2) [**The Innovation**]<br><span style="font-size: 80%;">*Rui Wang, <strong>Shixuan Liu</strong>, Changjun Fan, Guozheng Li, Jincai Huang, Zhong Liu, Gang Zhou*</span>
