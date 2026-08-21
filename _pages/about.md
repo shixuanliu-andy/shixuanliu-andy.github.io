@@ -42,7 +42,7 @@ I am open to research discussions and collaboration opportunities. Please feel f
 
 - [Environment Inference for Learning Generalizable Dynamical System](https://proceedings.neurips.cc/paper_files/paper/2025/hash/f00649987484cba88e5a3699249df65c-Abstract-Conference.html) [**NeurIPS 2025, Highlight**]<br><span style="font-size: 80%;"><i><strong>Shixuan Liu</strong>, Yue He✉, Haotian Wang, Wenjing Yang, Yunfei Wang, Peng Cui✉, Zhong Liu</i></span>
 
-- [Generating Graph-like Rules for Knowledge Graph Reasoning via Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3770855.3817814) [**KDD 2026**]<br><span style="font-size: 80%;"><i>Haoxiang Cheng, Yunfei Wang, Chao Chen, Kewei Cheng, Zhipeng Lin, Haoxuan Li, Changjun Fan, <strong>Shixuan Liu</strong>✉</i></span>
+- [Generating Graph-like Logical Rules for Knowledge Graph Reasoning via Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3770855.3817814) [**KDD 2026**]<br><span style="font-size: 80%;"><i>Haoxiang Cheng, Yunfei Wang, Chao Chen, Kewei Cheng, Zhipeng Lin, Haoxuan Li, Changjun Fan, <strong>Shixuan Liu</strong>✉</i></span>
 
 - [LogicSAGE: Neuro-Symbolic Reasoning with Socratic-Guided Enhancement](https://icml.cc/virtual/2026/poster/65084) [**ICML 2026**]<br><span style="font-size: 80%;"><i>Jinlong Tian, Jiang Yu, Kewei Cheng, Fengxiang Cheng, Yue He, Yunfei Wang, Haotian Wang, Haoxuan Li, Wenjing Yang, <strong>Shixuan Liu</strong>✉</i></span>
 
