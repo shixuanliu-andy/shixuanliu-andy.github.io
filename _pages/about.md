@@ -59,6 +59,8 @@ I am open to research discussions and collaboration opportunities. Please feel f
 
 - [Efficient Table Embeddings via Self-Supervised Structural-Semantic Graph Autoencoder](https://www.sciencedirect.com/science/article/pii/S0306457325002390) [**IP&M**]<br><span style="font-size: 80%;"><i>Jinlong Tian, <strong>Shixuan Liu*</strong>, Ruochun Jin, Mengmeng Li, Yanfang Zhou, Xinhai Xu✉, Yuhua Tang</i></span>
 
+- [Distributionally-robust Heterogeneous Graph Neural Networks via Relation-aware Grouping](https://www.sciencedirect.com/science/article/pii/S0306457324002796) [**IP&M**]<br><span style="font-size: 80%;"><i>Yunfei Wang, Yanghui Fu, <strong>Shixuan Liu</strong>✉, Yue He, Wenhao Wang, Lailong Luo, Cheng Zhu✉</i></span>
+
 - [MIRAGE: Reliability Assessment via Grounded Evidence for Table Reasoning](https://openreview.net/forum?id=FXFrCvcSMd) [**EMNLP 2026**]<br><span style="font-size: 80%;"><i>Jinlong Tian, Ruochun Jin✉, <strong>Shixuan Liu</strong>✉, Yanfang Zhou, Mengmeng Li, Haotian Wang, Xinhai Xu, Yuhua Tang</i></span>
 
 - [Tabular Synthesis Based on Bi-Directional Feedback Conditional Diffusion Models](https://ieeexplore.ieee.org/abstract/document/11464381) [**ICASSP 2026**]<br><span style="font-size: 80%;"><i>Qiyuan Zhang, Yuhua Tang, Jinlong Tian, Yue He, Liyang Xu, <strong>Shixuan Liu</strong>✉</i></span>
