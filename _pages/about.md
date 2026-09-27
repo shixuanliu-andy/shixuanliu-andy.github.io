@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👋 About Me
-I am an Assistant Professor at the Intelligent Game and Decision Lab, Beijing. From 2015 to 2024, I earned my bachelor’s and doctoral degrees in Management Science and Engineering (管理科学与工程) from the College of Systems Engineering, National University of Defense Technology, under the supervision of Prof. Zhong Liu (刘忠) and Prof. [Changjun Fan (范长俊)](https://scholar.google.fr/citations?user=z0Keb0sAAAAJ&hl=zh-CN). I was also a visiting Ph.D. student at Tsinghua University from 2022 to 2024, advised by Prof. [Peng Cui (崔鹏)](https://scholar.google.fr/citations?user=G8x97ZgAAAAJ&hl=zh-CN).
+I am an Assistant Professor at the Intelligent Game and Decision Lab. From 2015 to 2024, I earned my bachelor’s and doctoral degrees in Management Science and Engineering from the College of Systems Engineering, National University of Defense Technology, under the supervision of Prof. Zhong Liu (刘忠) and Prof. [Changjun Fan (范长俊)](https://scholar.google.fr/citations?user=z0Keb0sAAAAJ&hl=zh-CN). I was also a visiting Ph.D. student at Tsinghua University from 2022 to 2024, advised by Prof. [Peng Cui (崔鹏)](https://scholar.google.fr/citations?user=G8x97ZgAAAAJ&hl=zh-CN).
 
 I have published over 20 papers in top-tier journals and conferences, including IEEE TPAMI, IEEE TKDE, The Innovation, NeurIPS, ICML, KDD, WWW, ICDE, CVPR, and AAAI. My primary research interests include: 1) **Logical Reasoning** — encompassing both logical/mathematical reasoning with LLMs and rule learning on knowledge graphs; 2) **OOD Generalization** — with a focus on higher-order and complex data such as graphs, heterogeneous information networks, and dynamic systems; 3) **Database Management** — focusing on the representation, processing, and querying of tables; and 4) **Foundation Models** — with particular emphasis on prior-fitted networks and their applications in AI4S domains.
 
@@ -26,6 +26,7 @@ I am open to research discussions and collaboration opportunities. Please feel f
 
 
 # 🔥 News
+- [2026.09] 🎉🎉 One paper is accepted by **NeurIPS 2027**.
 - [2026.08] 🎉🎉 One paper is accepted by **EMNLP 2026**.
 - [2026.05] 🎉🎉 One paper is accepted by **KDD 2026**.
 - [2026.05] 🎉🎉 Two papers are accepted by **ICML 2026**.
@@ -42,6 +43,8 @@ I am open to research discussions and collaboration opportunities. Please feel f
 
 - [Environment Inference for Learning Generalizable Dynamical System](https://proceedings.neurips.cc/paper_files/paper/2025/hash/f00649987484cba88e5a3699249df65c-Abstract-Conference.html) [**NeurIPS 2025, Highlight**]<br><span style="font-size: 80%;"><i><strong>Shixuan Liu</strong>, Yue He✉, Haotian Wang, Wenjing Yang, Yunfei Wang, Peng Cui✉, Zhong Liu</i></span>
 
+- [Mining Logic under Uncertainty: Probabilistic Soft Logic with Energy-Based Inference for Chain-of-Thought Verification](https://openreview.net/forum?id=UyyA9UB5BN) [**NeurIPS 2027**]<br><span style="font-size: 80%;"><i>Jiang Yu, Jinlong Tian, Kewei Cheng, Yue He, Haoxuan Li, Haotian Wang, Yunhai Wang, Wenjing Yang, Zhouchen Lin, <strong>Shixuan Liu</strong>✉</i></span>
+
 - [Generating Graph-like Logical Rules for Knowledge Graph Reasoning via Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3770855.3817814) [**KDD 2026**]<br><span style="font-size: 80%;"><i>Haoxiang Cheng, Yunfei Wang, Chao Chen, Kewei Cheng, Zhipeng Lin, Haoxuan Li, Changjun Fan, <strong>Shixuan Liu</strong>✉</i></span>
 
 - [LogicSAGE: Neuro-Symbolic Reasoning with Socratic-Guided Enhancement](https://icml.cc/virtual/2026/poster/65084) [**ICML 2026**]<br><span style="font-size: 80%;"><i>Jinlong Tian, Jiang Yu, Kewei Cheng, Fengxiang Cheng, Yue He, Yunfei Wang, Haotian Wang, Haoxuan Li, Wenjing Yang, <strong>Shixuan Liu</strong>✉</i></span>
@@ -56,7 +59,7 @@ I am open to research discussions and collaboration opportunities. Please feel f
 
 - [Efficient Table Embeddings via Self-Supervised Structural-Semantic Graph Autoencoder](https://www.sciencedirect.com/science/article/pii/S0306457325002390) [**IP&M**]<br><span style="font-size: 80%;"><i>Jinlong Tian, <strong>Shixuan Liu*</strong>, Ruochun Jin, Mengmeng Li, Yanfang Zhou, Xinhai Xu✉, Yuhua Tang</i></span>
 
-- [MIRAGE: Reliability Assessment via Grounded Evidence for Table Reasoning](https://openreview.net/forum?id=FXFrCvcSMd) [**EMNLP 2026**]<br><span style="font-size: 80%;"><i>Jinlong Tian, Ruochun Jin, <strong>Shixuan Liu</strong>✉, Yanfang Zhou, Mengmeng Li, Haotian Wang, Xinhai Xu, Yuhua Tang</i></span>
+- [MIRAGE: Reliability Assessment via Grounded Evidence for Table Reasoning](https://openreview.net/forum?id=FXFrCvcSMd) [**EMNLP 2026**]<br><span style="font-size: 80%;"><i>Jinlong Tian, Ruochun Jin✉, <strong>Shixuan Liu</strong>✉, Yanfang Zhou, Mengmeng Li, Haotian Wang, Xinhai Xu, Yuhua Tang</i></span>
 
 - [Tabular Synthesis Based on Bi-Directional Feedback Conditional Diffusion Models](https://ieeexplore.ieee.org/abstract/document/11464381) [**ICASSP 2026**]<br><span style="font-size: 80%;"><i>Qiyuan Zhang, Yuhua Tang, Jinlong Tian, Yue He, Liyang Xu, <strong>Shixuan Liu</strong>✉</i></span>
 
