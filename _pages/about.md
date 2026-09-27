@@ -26,7 +26,7 @@ I am open to research discussions and collaboration opportunities. Please feel f
 
 
 # 🔥 News
-- [2026.09] 🎉🎉 One paper is accepted by **NeurIPS 2027**.
+- [2026.09] 🎉🎉 One paper is accepted by **NeurIPS 2026**.
 - [2026.08] 🎉🎉 One paper is accepted by **EMNLP 2026**.
 - [2026.05] 🎉🎉 One paper is accepted by **KDD 2026**.
 - [2026.05] 🎉🎉 Two papers are accepted by **ICML 2026**.
@@ -43,7 +43,7 @@ I am open to research discussions and collaboration opportunities. Please feel f
 
 - [Environment Inference for Learning Generalizable Dynamical System](https://proceedings.neurips.cc/paper_files/paper/2025/hash/f00649987484cba88e5a3699249df65c-Abstract-Conference.html) [**NeurIPS 2025, Highlight**]<br><span style="font-size: 80%;"><i><strong>Shixuan Liu</strong>, Yue He✉, Haotian Wang, Wenjing Yang, Yunfei Wang, Peng Cui✉, Zhong Liu</i></span>
 
-- [Mining Logic under Uncertainty: Probabilistic Soft Logic with Energy-Based Inference for Chain-of-Thought Verification](https://openreview.net/forum?id=UyyA9UB5BN) [**NeurIPS 2027**]<br><span style="font-size: 80%;"><i>Jiang Yu, Jinlong Tian, Kewei Cheng, Yue He, Haoxuan Li, Haotian Wang, Yunhai Wang, Wenjing Yang, Zhouchen Lin, <strong>Shixuan Liu</strong>✉</i></span>
+- [Mining Logic under Uncertainty: Probabilistic Soft Logic with Energy-Based Inference for Chain-of-Thought Verification](https://openreview.net/forum?id=UyyA9UB5BN) [**NeurIPS 2026**]<br><span style="font-size: 80%;"><i>Jiang Yu, Jinlong Tian, Kewei Cheng, Yue He, Haoxuan Li, Haotian Wang, Yunhai Wang, Wenjing Yang, Zhouchen Lin, <strong>Shixuan Liu</strong>✉</i></span>
 
 - [Generating Graph-like Logical Rules for Knowledge Graph Reasoning via Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3770855.3817814) [**KDD 2026**]<br><span style="font-size: 80%;"><i>Haoxiang Cheng, Yunfei Wang, Chao Chen, Kewei Cheng, Zhipeng Lin, Haoxuan Li, Changjun Fan, <strong>Shixuan Liu</strong>✉</i></span>
 
